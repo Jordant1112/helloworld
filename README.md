@@ -4,6 +4,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This tutorial focuses mainly on Git and using Github as its remote
 
-"Add a line for modification"
+"Add more of a line for modification///in update-readme"
 
 This repository is built step by step in the tutorial.
